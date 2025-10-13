@@ -10,10 +10,10 @@ This repository showcases a multi-format business analysis project centered arou
 | File/Link | Description |
 |-----------|-------------|
 | [unicorn-slide-deck.pdf](./unicorn-slide-deck.pdf) | Visual presentation narrating Unicorn’s seasonal performance, delivery delays, and strategic recovery |
-|  | Executive summary outlining key business highlights, concerns, and action matrix |
-|  | Spreadsheet-based analysis answering key business questions using formulas, pivot tables, and charts |
-|  | SQL queries using pandas in Python for exploratory analysis |
-| Tableau Dashboard | Hosted on Tableau Public, visualizing delivery performance, sales breakdown, and strategic insights |
+| [unicorn-executive-summary.pdf](./unicorn-executive-summary.pdf) | Executive summary outlining key business highlights, concerns, and action matrix |
+| [unicorn-analysis.xlsx](./unicorn-analysis.xlsx) | Spreadsheet-based analysis answering key business questions using formulas, pivot tables, and charts |
+| [Open the Google Colab Notebook](https://colab.research.google.com/drive/1awAOhRTej0EmJNdU9QLbPQG0rv3XE85n?usp=sharing) | SQL queries using pandas in Python for exploratory analysis 
+| [View the Tableau Dashboard](https://public.tableau.com/shared/GK8HXZHRP?:display_count=n&:origin=viz_share_link) | Hosted on Tableau Public, visualizing delivery performance, sales breakdown, and strategic insights |
 
 ## 📊 Project Highlights
 
