@@ -9,7 +9,7 @@ This repository showcases a multi-format business analysis project centered arou
 
 | File/Link | Description |
 |-----------|-------------|
-|  | Visual presentation narrating Unicorn’s seasonal performance, delivery delays, and strategic recovery |
+| [unicorn-slide-deck.pdf](./unicorn-slide-deck.pdf) | Visual presentation narrating Unicorn’s seasonal performance, delivery delays, and strategic recovery |
 |  | Executive summary outlining key business highlights, concerns, and action matrix |
 |  | Spreadsheet-based analysis answering key business questions using formulas, pivot tables, and charts |
 |  | SQL queries using pandas in Python for exploratory analysis |
