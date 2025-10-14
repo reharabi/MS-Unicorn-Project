@@ -2,9 +2,6 @@
 
 This repository showcases a multi-format business analysis project centered around a fictional company, **Unicorn**.This project was developed as part of a group assignment for Masterschool’s Data Analytics program. It combines interactive Tableau dashboards, spreadsheet-based insights, Python data analysis, and strategic storytelling to explore Unicorn’s journey through growth, operational challenges, and recovery.
 
-🔗 [View the Tableau Dashboard](https://public.tableau.com/shared/GK8HXZHRP?:display_count=n&:origin=viz_share_link)  
-🔗 [Open the Google Colab Notebook](https://colab.research.google.com/drive/1awAOhRTej0EmJNdU9QLbPQG0rv3XE85n?usp=sharing)
-
 ## 📁 Repository Contents
 
 | File/Link | Description |
